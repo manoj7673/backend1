@@ -6,15 +6,14 @@ Compress-Archive -Path "D:\Tutorials\dotnet\user-api\UserApi\bin\Release\net7.0\
 "D:\Tutorials\dotnet\user-api\UserApi"
 
 {
-    "clientId": "182fc8d3-c2d4-407a-b5c5-55103317737a",
-    "clientSecret": "cR28Q~9McaFikMjvdVCaTf8GkhppQhHNBSTBjcGf",
-    "subscriptionId": "35b269d2-7c5c-4f36-abf1-56099fd97991",
-    "tenantId": "1df39095-a0f4-4b9f-abcf-e96d3abd9282",
-    "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
-    "resourceManagerEndpointUrl": "https://management.azure.com/",
-    "activeDirectoryGraphResourceId": "https://graph.windows.net/",
-    "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
-    "galleryEndpointUrl": "https://gallery.azure.com/",
-    "managementEndpointUrl": "https://management.core.windows.net/"
+  "clientId": "a082020b-131c-41b9-a852-c026139962d5",
+  "clientSecret": "xne8Q~VQg_9ACQH5ROFkgsUfJiYXoR4A6uC8bdy.",
+  "subscriptionId": "f8fbf077-5a5a-4d15-9c20-80cb1cce97bd",
+  "tenantId": "e80e2098-efcf-48d4-bca6-ae3804bcc264",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
 }
-
